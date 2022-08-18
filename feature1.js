@@ -1,11 +1,6 @@
 function smallestCommon(n) {
     let arr = n.sort((a,b) => a-b);
 
-    // let newArr = arr.reduce((acc,n) => {
-    //     acc+n
-    // },[])
-    // console.log()
-
     let ans = arr[1];
     while(true) {
         
