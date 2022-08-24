@@ -12,9 +12,7 @@ function smallestCommon(n) {
 
     }
 
-    console.log(arr)
-    
- CONSOLE.LOG('ADDITONAL CAHNGES')
+  
 
 }
 
