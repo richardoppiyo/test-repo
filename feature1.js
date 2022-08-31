@@ -5,9 +5,7 @@ function smallestCommon(n) {
     while(true) {
         
         for(let i=arr[1]; i <= arr[1]; i++ ){
-            if( ans % i ) {
-
-            }
+           
         }
 
     }
