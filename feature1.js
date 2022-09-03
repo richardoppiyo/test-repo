@@ -3,12 +3,7 @@ function smallestCommon(n) {
 
     let ans = arr[1];
     while(true) {
-        
-        for(let i=arr[1]; i <= arr[1]; i++ ){
-           
-        }
-
-    }
+     
 
   
 
